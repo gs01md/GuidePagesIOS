@@ -12,9 +12,9 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT"
 
-  s.author             = { "gs01md" => "gs01md@163.com" }
+  s.author       = { "gs01md" => "gs01md@163.com" }
 
-  s.platform     = :ios, "5.0"
+  s.platform     = :ios, “7.0”
 
 
   s.source       = { :git => "https://github.com/gs01md/GuidePagesIOS.git", :tag => s.version.to_s }
